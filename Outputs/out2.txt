@@ -1,0 +1,13 @@
+.
+├── Code
+│   ├── convertor.py
+│   ├── data.csv
+│   └── plot.py
+├── History
+│   └── history1.txt
+├── LinuxExam.md
+└── Outputs
+    ├── out1.txt
+    └── out2.txt
+
+3 directories, 7 files
